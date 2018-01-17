@@ -1,0 +1,10 @@
+/home/user/git/dotnet/VATExample1/bin/Debug/netcoreapp2.0/VATExample1.deps.json
+/home/user/git/dotnet/VATExample1/bin/Debug/netcoreapp2.0/VATExample1.runtimeconfig.json
+/home/user/git/dotnet/VATExample1/bin/Debug/netcoreapp2.0/VATExample1.runtimeconfig.dev.json
+/home/user/git/dotnet/VATExample1/bin/Debug/netcoreapp2.0/VATExample1.dll
+/home/user/git/dotnet/VATExample1/bin/Debug/netcoreapp2.0/VATExample1.pdb
+/home/user/git/dotnet/VATExample1/obj/Debug/netcoreapp2.0/VATExample1.csproj.CoreCompileInputs.cache
+/home/user/git/dotnet/VATExample1/obj/Debug/netcoreapp2.0/VATExample1.AssemblyInfoInputs.cache
+/home/user/git/dotnet/VATExample1/obj/Debug/netcoreapp2.0/VATExample1.AssemblyInfo.cs
+/home/user/git/dotnet/VATExample1/obj/Debug/netcoreapp2.0/VATExample1.dll
+/home/user/git/dotnet/VATExample1/obj/Debug/netcoreapp2.0/VATExample1.pdb

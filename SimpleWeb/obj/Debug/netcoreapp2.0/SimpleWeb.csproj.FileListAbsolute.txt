@@ -1,0 +1,10 @@
+/home/user/git/dotnet/SimpleWeb/bin/Debug/netcoreapp2.0/SimpleWeb.deps.json
+/home/user/git/dotnet/SimpleWeb/bin/Debug/netcoreapp2.0/SimpleWeb.runtimeconfig.json
+/home/user/git/dotnet/SimpleWeb/bin/Debug/netcoreapp2.0/SimpleWeb.runtimeconfig.dev.json
+/home/user/git/dotnet/SimpleWeb/bin/Debug/netcoreapp2.0/SimpleWeb.dll
+/home/user/git/dotnet/SimpleWeb/bin/Debug/netcoreapp2.0/SimpleWeb.pdb
+/home/user/git/dotnet/SimpleWeb/obj/Debug/netcoreapp2.0/SimpleWeb.csproj.CoreCompileInputs.cache
+/home/user/git/dotnet/SimpleWeb/obj/Debug/netcoreapp2.0/SimpleWeb.AssemblyInfoInputs.cache
+/home/user/git/dotnet/SimpleWeb/obj/Debug/netcoreapp2.0/SimpleWeb.AssemblyInfo.cs
+/home/user/git/dotnet/SimpleWeb/obj/Debug/netcoreapp2.0/SimpleWeb.dll
+/home/user/git/dotnet/SimpleWeb/obj/Debug/netcoreapp2.0/SimpleWeb.pdb

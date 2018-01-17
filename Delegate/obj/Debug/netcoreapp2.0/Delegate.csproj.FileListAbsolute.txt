@@ -1,0 +1,3 @@
+/home/user/git/dotnet/Delegate/obj/Debug/netcoreapp2.0/Delegate.csproj.CoreCompileInputs.cache
+/home/user/git/dotnet/Delegate/obj/Debug/netcoreapp2.0/Delegate.AssemblyInfoInputs.cache
+/home/user/git/dotnet/Delegate/obj/Debug/netcoreapp2.0/Delegate.AssemblyInfo.cs

@@ -1,0 +1,10 @@
+/home/user/git/dotnet/Test/bin/Debug/netcoreapp2.0/Test.deps.json
+/home/user/git/dotnet/Test/bin/Debug/netcoreapp2.0/Test.runtimeconfig.json
+/home/user/git/dotnet/Test/bin/Debug/netcoreapp2.0/Test.runtimeconfig.dev.json
+/home/user/git/dotnet/Test/bin/Debug/netcoreapp2.0/Test.dll
+/home/user/git/dotnet/Test/bin/Debug/netcoreapp2.0/Test.pdb
+/home/user/git/dotnet/Test/obj/Debug/netcoreapp2.0/Test.csproj.CoreCompileInputs.cache
+/home/user/git/dotnet/Test/obj/Debug/netcoreapp2.0/Test.AssemblyInfoInputs.cache
+/home/user/git/dotnet/Test/obj/Debug/netcoreapp2.0/Test.AssemblyInfo.cs
+/home/user/git/dotnet/Test/obj/Debug/netcoreapp2.0/Test.dll
+/home/user/git/dotnet/Test/obj/Debug/netcoreapp2.0/Test.pdb

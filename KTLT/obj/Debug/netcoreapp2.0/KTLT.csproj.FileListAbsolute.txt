@@ -1,0 +1,10 @@
+/home/user/git/dotnet/KTLT/bin/Debug/netcoreapp2.0/KTLT.deps.json
+/home/user/git/dotnet/KTLT/bin/Debug/netcoreapp2.0/KTLT.runtimeconfig.json
+/home/user/git/dotnet/KTLT/bin/Debug/netcoreapp2.0/KTLT.runtimeconfig.dev.json
+/home/user/git/dotnet/KTLT/bin/Debug/netcoreapp2.0/KTLT.dll
+/home/user/git/dotnet/KTLT/bin/Debug/netcoreapp2.0/KTLT.pdb
+/home/user/git/dotnet/KTLT/obj/Debug/netcoreapp2.0/KTLT.csproj.CoreCompileInputs.cache
+/home/user/git/dotnet/KTLT/obj/Debug/netcoreapp2.0/KTLT.AssemblyInfoInputs.cache
+/home/user/git/dotnet/KTLT/obj/Debug/netcoreapp2.0/KTLT.AssemblyInfo.cs
+/home/user/git/dotnet/KTLT/obj/Debug/netcoreapp2.0/KTLT.dll
+/home/user/git/dotnet/KTLT/obj/Debug/netcoreapp2.0/KTLT.pdb

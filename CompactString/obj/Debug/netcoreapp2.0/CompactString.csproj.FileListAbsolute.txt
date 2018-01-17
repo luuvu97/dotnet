@@ -1,0 +1,10 @@
+/home/user/git/dotnet/CompactString/obj/Debug/netcoreapp2.0/CompactString.csproj.CoreCompileInputs.cache
+/home/user/git/dotnet/CompactString/obj/Debug/netcoreapp2.0/CompactString.AssemblyInfoInputs.cache
+/home/user/git/dotnet/CompactString/obj/Debug/netcoreapp2.0/CompactString.AssemblyInfo.cs
+/home/user/git/dotnet/CompactString/bin/Debug/netcoreapp2.0/CompactString.deps.json
+/home/user/git/dotnet/CompactString/bin/Debug/netcoreapp2.0/CompactString.runtimeconfig.json
+/home/user/git/dotnet/CompactString/bin/Debug/netcoreapp2.0/CompactString.runtimeconfig.dev.json
+/home/user/git/dotnet/CompactString/bin/Debug/netcoreapp2.0/CompactString.dll
+/home/user/git/dotnet/CompactString/bin/Debug/netcoreapp2.0/CompactString.pdb
+/home/user/git/dotnet/CompactString/obj/Debug/netcoreapp2.0/CompactString.dll
+/home/user/git/dotnet/CompactString/obj/Debug/netcoreapp2.0/CompactString.pdb
